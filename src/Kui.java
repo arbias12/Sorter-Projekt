@@ -39,6 +39,7 @@ public class Kui implements ActionListener, SorterInterface {
      * Ist die Main-Klasse, in der alles ausgeführt wird.
      * @param args ist der Paramter der Main-Klasse
      */
+
     public static void main(String[] args) {
         Kui kui = new Kui("Arbias");
 
